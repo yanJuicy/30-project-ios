@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='반복문'/>
+        <page name='옵셔널'/>
+        <page name='옵셔널 바인딩'/>
+        <page name='구조체'/>
+        <page name='클래스'/>
+        <page name='초기화 구문 init'/>
+        <page name='프로퍼티'/>
+        <page name='상속'/>
+        <page name='타입 캐스팅'/>
+        <page name='assert와 guard'/>
+        <page name='프로토콜'/>
+        <page name='익스텐션'/>
+        <page name='열거형'/>
+        <page name='옵셔널 체이닝'/>
+        <page name='try-catch'/>
+        <page name='클로저'/>
+        <page name='고차함수'/>
+    </pages>
+</playground>
